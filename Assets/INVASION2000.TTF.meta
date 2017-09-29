@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 294b4d87e8f32204cb2a9b1f459d308a
+timeCreated: 1506700551
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Invasion2000
+  fontNames:
+  - Invasion2000
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
